@@ -1,7 +1,7 @@
-streamlit
+gradio==6.14.0
 langchain
 langchain-community
-langchain-ollama
+langchain-openai
 langchain-classic
 langchain-core
 langchain-text-splitters
@@ -9,3 +9,5 @@ faiss-cpu
 pymupdf
 docx2txt
 fpdf2
+openai
+tiktoken
