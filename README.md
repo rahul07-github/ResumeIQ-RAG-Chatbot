@@ -8,7 +8,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-0.3-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com)
 [![OpenAI](https://img.shields.io/badge/GPT--4o--mini-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://faiss.ai)
-[![Gradio](https://img.shields.io/badge/Gradio-5.31-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
+[![Gradio](https://img.shields.io/badge/Gradio-6.14-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Deployed-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/rahulkumarjha/ResumeIQ-Chatbot)
 [![License](https://img.shields.io/badge/License-Restricted_View_Only-red?style=for-the-badge)](LICENSE)
