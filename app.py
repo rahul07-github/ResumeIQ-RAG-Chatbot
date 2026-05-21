@@ -225,7 +225,7 @@ with gr.Blocks(title="ResumeIQ — AI Resume Chatbot") as demo:
             chatbot = gr.Chatbot(
                 label="Chat",
                 height=450,
-                show_label=False
+                show_label=False,
                 )
 
             with gr.Row():
